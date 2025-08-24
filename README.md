@@ -61,8 +61,8 @@ People often **track vitals and symptoms** in scattered ways (notes, apps, memor
 
 ## 🎥 Project Demo & Slides
 
-🎬 Demo Video: [Click this LINK](https://your-demo-link.com)  
-📊 Presentation Slides: [Click this LINK](https://your-slides-link.com)  
+🎬 Demo Video: [Click this LINK](https://youtu.be/piBfsDtcbMI)  
+📊 Presentation Slides: [Click this LINK](https://docs.google.com/presentation/d/1rp3QjvQ4NnUjAt-WrdYc8FY2PEGWwubH/edit?usp=sharing&ouid=109220966210052458804&rtpof=true&sd=true)  
 
 ---
 
