@@ -76,7 +76,7 @@ cd SymptomTracker
 pip install -r requirements.txt
 
 streamlit run app.py
-
+```
 ---
 
 ### 📩 Stay Connected
