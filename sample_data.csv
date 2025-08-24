@@ -1,0 +1,5 @@
+```csv
+age,bp,hr,temp,symptoms
+25,120,80,98.6,Headache
+40,140,90,99.1,Fatigue
+55,160,95,100.2,Chest pain
